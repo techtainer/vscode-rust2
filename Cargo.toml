@@ -1,0 +1,7 @@
+[package]
+name = "vscode-rust"
+version = "0.1.0"
+authors = ["Byung-Ho Ahn <byungho.ahn@gmail.com>"]
+edition = "2018"
+
+[dependencies]
